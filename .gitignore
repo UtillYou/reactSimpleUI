@@ -1,0 +1,7 @@
+/node_modules
+/.svn
+/.idea
+/package-lock.json
+/dist
+/es
+/lib

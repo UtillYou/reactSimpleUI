@@ -1,0 +1,8 @@
+{
+    "extends": ["tslint:recommended", "tslint-react"],
+    "rules": {
+      "object-literal-sort-keys":false,
+      "prefer-for-of":false,
+      "jsx-no-multiline-js":false
+    }
+  }
