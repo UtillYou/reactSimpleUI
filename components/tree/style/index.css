@@ -1,0 +1,11 @@
+.zw-tree {
+  list-style: none;
+}
+.zw-tree li span {
+  display: inline-block;
+}
+.zw-tree li span.icon {
+  width: 20px;
+  height: 20px;
+  background-image: url('zTreeStandard.svg');
+}

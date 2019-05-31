@@ -1,0 +1,20 @@
+.zw-tree{
+    list-style: none;
+    li{
+        span{
+            display: inline-block;
+            &.icon{
+                width:14px;
+                height:14px;
+                background-image: url('./zTreeStandard.svg');
+                background-repeat: no-repeat;
+                &.expand{
+                    background-position: -79px -129px;
+                }
+                &.collapse{
+                    background-position: -97px -129px;
+                }
+            }
+        }
+    }
+}
